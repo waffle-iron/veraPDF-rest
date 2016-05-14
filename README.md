@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/veraPDF/veraPDF-rest.png?label=ready&title=Ready)](https://waffle.io/veraPDF/veraPDF-rest)
 veraPDF-rest
 =========================
 
